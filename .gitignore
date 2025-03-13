@@ -20,4 +20,5 @@ venv/
 Thumbs.db
 
 # Data Files (if not needed in Git)
-data/
+#data/
+.history/
